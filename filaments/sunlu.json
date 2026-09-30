@@ -167,15 +167,15 @@
                 },
                 {
                     "name": "Red",
-                    "hex": "FF0000"
+                    "hex": "BC2726"
                 },
                 {
-                    "name": "Blue",
-                    "hex": "0000FF"
+                    "name": "Blue (Klein Blue)",
+                    "hex": "1729AB"
                 },
                 {
                     "name": "Grey",
-                    "hex": "808080"
+                    "hex": "75787B"
                 },
                 {
                     "name": "Green",
@@ -396,11 +396,11 @@
                 },
                 {
                     "name": "Red",
-                    "hex": "FF0000"
+                    "hex": "BC2726"
                 },
                 {
-                    "name": "Blue",
-                    "hex": "0000FF"
+                    "name": "Blue (Klein Blue)",
+                    "hex": "1729AB"
                 },
                 {
                     "name": "Orange",
@@ -420,7 +420,7 @@
                 },
                 {
                     "name": "Grey",
-                    "hex": "808080"
+                    "hex": "75787B"
                 },
                 {
                     "name": "Transparent",
